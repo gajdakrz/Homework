@@ -62,16 +62,16 @@ How to use
 
 1.  First you have to create user on **home** page
 
-![](media/d0df92940fd831e5e3fc461460811943.jpg)
+![home](https://user-images.githubusercontent.com/51199020/58703165-11546a00-83a8-11e9-8733-688f9dd90f00.jpg)
 
 2.  After creating the user in ‘test’ db, will be sent welcome email with
     inserted data.
 
-![](media/e55be9aa52d513365c582855eab5b27b.jpg)
+![email](https://user-images.githubusercontent.com/51199020/58703116-e79b4300-83a7-11e9-970d-718f592dae40.JPG)
 
 3.  You can manage (edit, delete) the user on admin page
 
-![](media/6f0049e5e9dd6373d88f974d5b1097f1.jpg)
+![admin](https://user-images.githubusercontent.com/51199020/58702653-a8b8bd80-83a6-11e9-8a07-717da92cab12.jpg)
 
 License
 =======
