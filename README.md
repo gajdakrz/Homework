@@ -36,20 +36,22 @@ Installation steps:
 
 *\<Directory "../xampp/htdocs/UsersApp"\>*
 
-1.  Run Apache and Mysql module
+5.  Run Apache and Mysql module
 
-2.  Run admin for Mysql module - phpmyadmin
+6.  Run admin for Mysql module - phpmyadmin
 
-3.  In phpmyadmin there should be ‘test’ database. If not – create.
+7.  In phpmyadmin there should be ‘test’ database. If not – create.
 
-4.  In DB ‘test’ import test.sql from **DB** folder. In the end it should be two
+8.  In DB ‘test’ import test.sql from **DB** folder. In the end it should be two
     tables in ‘test’ DB:
 
     1.  Users – empty
 
     2.  Positions – with 3 records: tester, developer, project manager
 
-    3.  Configuration steps:
+
+Configuration steps:
+==========
 
 To sending emails there should be configured proper smtp server in file:
 
