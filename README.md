@@ -12,7 +12,7 @@ This is a simple web application with bootstrap css forms
 
 -   Managing (edit, delete) users
 
-Instalation
+Installation
 ===========
 
 Aplication based on CodeIgniter framework (<https://www.codeigniter.com/>)
