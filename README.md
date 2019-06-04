@@ -19,7 +19,7 @@ Aplication based on CodeIgniter framework (<https://www.codeigniter.com/>)
 
 and configured on XAMPP open-source cross-platform web server solution stack.
 
-Installation steps:
+Installation steps
 ===================
 
 1.  Install XAMPP (<https://www.apachefriends.org/download.html>)
@@ -50,7 +50,7 @@ Installation steps:
     2.  Positions – with 3 records: tester, developer, project manager
 
 
-Configuration steps:
+Configuration steps
 ==========
 
 To sending emails there should be configured proper smtp server in file:
